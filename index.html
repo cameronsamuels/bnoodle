@@ -1,1 +1,23 @@
-<!DOCTYPE html><title>BNoodle</title><meta content='user-scalable=no,width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1'name=viewport><meta content=yes name=apple-mobile-web-app-capable><meta content="black-translucent" name=apple-mobile-web-app-status-bar-style><link href=icon.png rel='shortcut icon'type=image/png><link href=icon.png rel=apple-touch-icon><meta name="apple-itunes-app" content="app-id=1223037854"><link href="style.css" rel="stylesheet"><body><select id="cube" onchange="updateCube()"><option>3x3</option><option>2x2</option><option>4x4</option><option>5x5</option><option>Pyraminx</option><option>Skewb</option></select><div><b></b><i></i></div><div id="s" ontouchend=displayScramble()><h2>Tap anywhere to generate a scramble</h2></div><script src="script.js"></script>
+<!DOCTYPE html><html>
+<head>
+  <title>BNoodle</title>
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <link href="icon.png" rel="shortcut icon">
+  <link href="icon.png" rel="apple-touch-icon">
+  <meta name="apple-itunes-app" content="app-id=1223037854">
+  <link href="style.css" rel="stylesheet">
+<body>
+  <select id="cube" onchange="updateCube()">
+    <option>3x3</option>
+    <option>2x2</option>
+    <option>4x4</option>
+    <option>5x5</option>
+    <option>Pyraminx</option>
+    <option>Skewb</option>
+  </select>
+  <div><b></b><i></i></div>
+  <div id="s" ontouchend="displayScramble()">
+    <h2>Tap anywhere to generate a scramble</h2>
+  </div>
+  <script src="script.js"></script>
+<body><html>
