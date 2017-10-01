@@ -44,18 +44,24 @@ function generateNotation() {
             n = ["U", "D", "F", "B", "L", "R"],
             // set usable directions / add ons
             a = ["i", "i", "i", "2", "2", "", "", "", "", "", "", ""];
+            // stop executing
+            break;
         // for 4x4 or 5x5
         case "4x4" || "5x5":
             // set usable sides
             n = ["U", "D", "F", "B", "L", "R", "Fw", "Bw", "Rw", "Lw", "Uw", "Bw"],
             // set usable directions / add ons
             a = ["'", "'", "'", "2", "2", "", "", "", "", "", "", ""];
+            // stop executing
+            break;
         // for Pyraminx or Skewb
         case "Pyraminx" || "Skewb":
             // set usable sides
             n = ["U", "B", "L", "R"],
             // set usable directions / add ons
             a = ["i", "i", "", "", ""];
+            // stop executing
+            break;
     }
     // return notation value
     return n[Math.floor(n.length * Math.random())] + a[Math.floor(a.length * Math.random())]
