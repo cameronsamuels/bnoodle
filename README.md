@@ -1,7 +1,7 @@
 # BNoodle
 A Rubik’s cube scrambler owned by Xeleration.
 # Links
-The app is published online at <https://bnoodle.tk>.
+The app is published online at <https://xel.company/bnoodle>.
 BNoodle is also available on [Google Play](https://goo.gl/MrZtxZ), and the [iOS App Store](https://goo.gl/BEZzCy).
 # Features
 - See multiple scrambles all at once
