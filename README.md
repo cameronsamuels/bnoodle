@@ -11,7 +11,7 @@ BNoodle is also available on [Google Play](https://goo.gl/MrZtxZ), and the [iOS 
 - Cross platform (online, iOS, Android)
 - No ads and no cost
 # Contributing
-You may fork the repo at <https://git.io/vdLAm> (not the @xeleration repo) and submit a pull request to resolve an issue or improve this repo.
+You may fork the repo at <https://git.io/vdLAm> and submit a pull request to resolve an issue or improve this repo.
 <br>You may also [open an issue](https://git.io/vdIgI) for a bug report or idea.
 # Background Information
 BNoodle was first published in 2016 by [Cameron Samuels](https://cameronsamuels.com)
