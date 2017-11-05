@@ -14,9 +14,8 @@ BNoodle is also available on [Google Play](https://goo.gl/MrZtxZ), and the [iOS 
 You may fork the repo at <https://git.io/vdLAm> and submit a pull request to resolve an issue or improve this repo.
 <br>You may also [open an issue](https://git.io/vdIgI) for a bug report or idea.
 # Background Information
-BNoodle was first published in 2016 by [Cameron Samuels](https://cameronsamuels.com)
-and then acquired by Xeleration in late September of 2017.
-It is developed in HTML, JavaScript, and CSS.
+BNoodle was first published in 2016 by [Cameron Samuels](https://cameronsamuels.com) and then acquired by Xeleration in September 2017.
+BNoodle is developed in HTML, JavaScript, and CSS.
 # Team
 [Jacob Gelder](https://git.io/vdIz2) - Project Manager, Developer
 <br>[Cameron Samuels](https://cameronsamuels.com) - Developer
