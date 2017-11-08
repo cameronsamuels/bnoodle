@@ -122,3 +122,5 @@ else scrambles.addEventListener('click', displayScramble);
 document.addEventListener('resize', function() { max = Math.round((winnerHeight / 100) * amounts[cube]) }),
 // disable touch scrolling
 document.addEventListener('touchmove', function(e) { e.preventDefault() });
+// add onchange event to the dropdown
+document.querySelector('select').addEventListener("change", updateCube);
