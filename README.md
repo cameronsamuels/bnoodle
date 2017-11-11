@@ -6,7 +6,6 @@ The app has no ads and is completely free.
 ## Links
 [Web](https://xel.company/bnoodle) - For any platform
 <br>[App Store](https://goo.gl/BEZzCy) - for iPhone & iPad
-<br>[Google Play](https://goo.gl/MrZtxZ) - For Android
 
 ## Contributing
 You may fork the repo at <https://git.io/vdLAm> and submit a pull request to resolve an issue or improve the app.
