@@ -12,8 +12,9 @@ You may fork the repo at <https://git.io/vdLAm> and submit a pull request to res
 You may also [open an issue](https://git.io/vdIgI) for a bug report or idea.
 
 ## Team
-[Jacob Gelder](https://git.io/vdIz2) - Project Manager, Developer
-<br>[Cameron Samuels](https://cameronsamuels.com) - Developer
+[Nihal Menon](https://git.io/v554d) - Project Manager, Developer
+<br>[Cameron Samuels](https://cameronsamuels.com) - CEO @ Xeleration
+<br>[Lex Kilpatrick](https://git.io/v554S) - COO @ Xeleration
 
 ## License
 BNoodle is distributed under the [Cameron Samuels License](LICENSE).
