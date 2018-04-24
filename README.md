@@ -4,7 +4,7 @@ for 3x3, 2x2, 4x4, 5x5, Pyraminx, and Skewb cubes. The scrambles are neatly list
 The app has no ads and is completely free.
 
 ## Links
-[Web](https://xel.company/bnoodle) - For any platform
+[Web](https://git.io/vpZQI) - For any platform
 <br>[App Store](https://goo.gl/BEZzCy) - For iPhone & iPad
 
 ## Contributing
