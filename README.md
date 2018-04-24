@@ -11,9 +11,5 @@ The app has no ads and is completely free.
 You may fork the repo at <https://git.io/vdLAm> and open a pr to resolve an issue or improve the app.
 You may also [open an issue](https://git.io/vdIgI) for a bug report or idea.
 
-## Team
-**Nihal Menon** - Project Manager, Developer
-<br>**Cameron Samuels** - CEO @ Xeleration
-
 ## License
 BNoodle is distributed under the [Cameron Samuels License](LICENSE).
